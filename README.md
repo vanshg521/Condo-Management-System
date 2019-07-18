@@ -12,6 +12,10 @@ An condo management web application
 
 ## Developer
 - [Steven Liu](https://github.com/vanshg521) - Software/Front end developer
+- [Dongxue Hao(Dorothy)](https://github.com/Dorothy006) 
+- [austinmiranda](https://github.com/austinmiranda)
+- [ohyung1287](https://github.com/ohyung1287)
+- [Valeriexii](https://github.com/Valeriexii)
 
 ## Parts of project
 - Laravel web application (this github page)
